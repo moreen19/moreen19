@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data scientist</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data analyst, Business intelligence analyst</a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data scientist</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data science proffesional </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
