@@ -1,6 +1,6 @@
 <h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data scientist</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data science proffesional </a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Data science Projects:</h2>
 
 - <b>Data Analysis</b>
   - [Data analysis- gaining insight from data](https://github.com/moreen19/Data-analysis-of-Hypoxia-on-lake-Buoy)
