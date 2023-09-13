@@ -19,11 +19,16 @@
   - [Home price predictor- neural network](https://github.com/moreen19/RealHomePrice)
   - [Feature extraction-autoencoders](https://github.com/moreen19/autoencoders-for-nmist-data-prediction-from-scratch-in-numpy-only)
   - [British airways customer reviews-Sentiment analysis](https://github.com/moreen19/Sentiment-analysis-British-airways)
+ 
+- <b>Excel Analysis</b>
+  - [Company product and sales - Excel analysis and Dashboard](https://github.com/moreen19/RealHomePrice)
 
 
 <h2>📺 Quarto website</h2>
 
-- [Short tutorials on statistical modelling and regression](https://quartopub.com/sites/moe/sta631-portfolio)
+- [Short tutorials on statistical modelling and regression]([https://quartopub.com/sites/moe/sta631-portfolio](https://github.com/moreen19/REC-Corp-Excel-Analysis))
+
+  
 
 
 <h2> 🤳 Connect with me:</h2>
