@@ -10,7 +10,7 @@
   - [Single cell analysis](https://github.com/moreen19/Data-mining-Single-cell-analysis)
 - <b>Machine learning</b>
   - [Ecommerce prediction project](https://github.com/moreen19/Linear-Regression)
-  - [British airways booking prediction-Random forest, XGBoost](https://github.com/moreen19/Linear-Regression)
+  - [British airways booking prediction-Random forest, XGBoost](https://github.com/moreen19/British-airways-customer-booking-prediction)
   - [Income prediction-Bayes algorithm](https://github.com/moreen19/Income-prediction-using-bayes-algorithm)
   - [Auto recommendation system-KNN](https://github.com/moreen19/Kaggle-ML-auto-complete-recommeder-challange-using-KNN)
   - [Multi-modal CITE-seq Prediction- Multivariate regression and NMF](https://github.com/moreen19/Kaggle-Multi-modal-CITE-seq-Prediction-ML-project)
