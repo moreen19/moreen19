@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenisichi/">A Data scientist </a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data scientist </a></h1>
 
 <h2>👨‍💻Data science Projects:</h2>
 
