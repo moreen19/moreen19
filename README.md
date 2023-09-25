@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data scientist </a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenisichi/">A Data scientist </a></h1>
 
 <h2>👨‍💻Data science Projects:</h2>
 
@@ -21,12 +21,12 @@
   - [British airways customer reviews-Sentiment analysis](https://github.com/moreen19/Sentiment-analysis-British-airways)
  
 - <b>Excel Analysis</b>
-  - [Company product and sales - Excel analysis and Dashboard](https://github.com/moreen19/RealHomePrice)
+  - [Company product and sales - Excel analysis and Dashboard](https://github.com/moreen19/REC-Corp-Excel-Analysis)
 
 
 <h2>📺 Quarto website</h2>
 
-- [Short tutorials on statistical modelling and regression]([https://quartopub.com/sites/moe/sta631-portfolio](https://github.com/moreen19/REC-Corp-Excel-Analysis))
+- [Short tutorials on statistical modelling and regression](https://quartopub.com/sites/moe/sta631-portfolio)
 
   
 
