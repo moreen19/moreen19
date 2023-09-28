@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenisichi/">Data scientist </a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenowino/">Data scientist </a></h1>
 
 <h2>👨‍💻Data science Projects:</h2>
 
@@ -35,11 +35,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="moreenisichi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="moreenowino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/moreenisichi
+[linkedin]: https://linkedin.com/in/moreenowino
 
 <!--
 **moreen19/moree19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
