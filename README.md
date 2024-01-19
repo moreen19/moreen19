@@ -1,6 +1,6 @@
 <h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenowino/">Data scientist </a></h1>
 
-<h2>📺 Quarto website</h2>
+<h2>📺 Visit my Project Portfolio website </h2>
    - [My portfolio website](https://moreenawuor.wixsite.com/portfolio)
 
 <h2>👨‍💻Data science Projects:</h2>
