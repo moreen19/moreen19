@@ -20,16 +20,21 @@
  - <b>Data mining</b>
   - [Single cell analysis](https://github.com/moreen19/Data-mining-Single-cell-analysis)
 
-- <b>Data Analysis</b>
+- <b>Data Analysis python</b>
+  - [Airline data analysis- Analysis of US domestic flights](https://github.com/moreen19/Airline-data-analysis)
   - [Data analysis- gaining insight from data](https://github.com/moreen19/Data-analysis-of-Hypoxia-on-lake-Buoy)
   - [Simple exploratory analysis- gaining insight from data](https://github.com/moreen19/Exploratory-data-analysis)
     
-    
+- <b>SQL and Power BI analysis</b>
+   - [Sales perfomance analysis - Relational databases and data modelling](https://moreenawuor.wixsite.com/portfolio/sql-project)
+ 
 - <b>Excel Analysis</b>
   - [Company product and sales - Excel analysis and Dashboard](https://github.com/moreen19/REC-Corp-Excel-Analysis)
 
+- <b>Data Analysis Tableau</b>
+  - [Analysis of top startups and firms to aid in venture capital decisions - Tableau analysis and Dashboard](https://public.tableau.com/app/profile/moreen.owino/viz/CIS671project/Dashboard1)
 
-<h2>📺 Quarto website</h2>
+<h2>📺 Statistical analysis and modelling Quarto website</h2>
 
 - [Short tutorials on statistical modelling and regression](https://quartopub.com/sites/moe/sta631-portfolio)
 
