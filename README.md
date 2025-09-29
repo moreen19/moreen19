@@ -1,8 +1,5 @@
 <h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A cloud solutions architect with a data science background</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
-<h2>📺 Visit my Project Portfolio website </h2>
-   - [My portfolio website](https://moreenandrason.wixsite.com/portfolio)
-
 <h2>👨‍💻Cloud Projects:</h2>
 
 - <b>Cloud resume challenge project</b>
@@ -40,6 +37,9 @@
 
 - <b>Data Analysis Tableau</b>
   - [Analysis of top startups and firms to aid in venture capital decisions - Tableau analysis and Dashboard](https://public.tableau.com/app/profile/moreen.owino/viz/CIS671project/Dashboard1)
+
+<h2>📺 Visit my Project Portfolio website </h2>
+   - [My portfolio website]: https://moreenandrason.wixsite.com/portfolio
 
 <h2>📺 Statistical analysis and modelling Quarto website</h2>
 
