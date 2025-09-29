@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A cloud solutions architect with a data science background</a>, <a href="https://www.linkedin.com/in/moreenandrason/">Data scientist </a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A cloud solutions architect with a data science background</a>, <a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
 <h2>📺 Visit my Project Portfolio website </h2>
    - [My portfolio website](https://moreenandrason.wixsite.com/portfolio)
