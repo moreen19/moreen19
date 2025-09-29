@@ -1,7 +1,14 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data proffesional</a>, <a href="https://www.linkedin.com/in/moreenowino/">Data scientist </a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A cloud solutions architect with a data science background</a>, <a href="https://www.linkedin.com/in/moreenandrason/">Data scientist </a></h1>
 
 <h2>📺 Visit my Project Portfolio website </h2>
-   - [My portfolio website](https://moreenawuor.wixsite.com/portfolio)
+   - [My portfolio website](https://moreenandrason.wixsite.com/portfolio)
+
+<h2>👨‍💻Cloud Projects:</h2>
+
+- <b>Cloud resume challenge project</b>
+  - [cloud resume project front end](https://github.com/moreen19/Cloud-project-frontend)
+  - [cloud resume project backend end](https://github.com/moreen19/project-backend2)
+  - 
 
 <h2>👨‍💻Data science Projects:</h2>
 
@@ -26,7 +33,7 @@
   - [Simple exploratory analysis- gaining insight from data](https://github.com/moreen19/Exploratory-data-analysis)
     
 - <b>SQL and Power BI analysis</b>
-   - [Sales perfomance analysis - Relational databases and data modelling](https://moreenawuor.wixsite.com/portfolio/sql-project)
+   - [Sales perfomance analysis - Relational databases and data modelling](https://moreenandrason.wixsite.com/portfolio/sql-project)
  
 - <b>Excel Analysis</b>
   - [Company product and sales - Excel analysis and Dashboard](https://github.com/moreen19/REC-Corp-Excel-Analysis)
@@ -43,11 +50,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="moreenowino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="moreenandrason | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/moreenowino
+[linkedin]: https://linkedin.com/in/moreenandrason
 
 <!--
 **moreen19/moree19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
