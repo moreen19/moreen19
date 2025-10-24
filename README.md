@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A cloud solutions architect with a data science background</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data Science and Cloud Professional</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
 <h2>👨‍💻Cloud Projects:</h2>
 
