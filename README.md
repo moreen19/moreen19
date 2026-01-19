@@ -1,5 +1,16 @@
 <h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19">A Data Science and Cloud Professional</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
+<h2>👨‍💻Data Engineering Projects:</h2>
+
+- <b>Full realtime ecommerce data pipeline project</b>
+  - [Real time eccomerce full data hub , analytics pipeline project](https://github.com/moreen19/Real-Time-E-commerce-Data-Hub-and-Analytics-Pipeline)
+
+
+- <b>SQL Projects</b>
+  - [SQL warehouse data engineering project](https://github.com/moreen19/Data-Warehouse-Project-Using-SQL)
+  - [SQL exploratory and advanced analytics project](https://github.com/moreen19/SQL_exploratory-_and_Advanced_Analytics_Project/tree/main)
+   
+
 <h2>👨‍💻Cloud Projects:</h2>
 
 - <b>Cloud resume challenge project</b>
