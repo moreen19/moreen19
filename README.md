@@ -1,4 +1,4 @@
-<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19"> A Data Engineer | AWS Certified Solutions Architect Professional | M.S. in Data Science | Python, SQL, Spark, Airflow, Terraform & Apache Iceberg | End-to-End Data Pipelines</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
+<h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19"> A Data Engineer | AWS Certified Solutions Architect Professional | M.S. in Data Science | Python, SQL, Spark, Airflow, Terraform, Lakehouse  | End-to-End Data Pipelines</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
 <h2>👨‍💻Data Engineering Projects:</h2>
 
