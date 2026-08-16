@@ -1,8 +1,9 @@
 <h1>Hello, I'm Moreen! <br/><a href="https://github.com/moreen19"> Data Engineer | AWS Certified Solutions Architect Professional | M.S. in Data Science | Python, SQL, Spark, Airflow, Terraform, Lakehouse  | End-to-End Data Pipelines</a><a href="https://www.linkedin.com/in/moreenandrason/"</a></h1>
 
-<h2>👨‍💻AI automation Project:</h2>
+<h2>👨‍💻AI automation Projects:</h2>
 
 - <b>Full Agentic workflow automation</b>
+  - [Customer-triage-automation ](https://github.com/moreen19/Customer-Triage-automation-technical-support-)
   - [Sentinel - DE](https://github.com/moreen19/Sentinel-DE/blob/main/Andrason_AI101_Capstone.pdf)
 
 
